@@ -44,5 +44,3 @@ prompt ("quieres seguir comprando?")
 }else{
     alert("No puedes comprar alcohol")
 }
-
-
